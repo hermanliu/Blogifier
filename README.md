@@ -1,4 +1,13 @@
+##关于本系统
+
+Blogifier 是高山的学习项目, 如果感兴趣，欢迎参加我们~
+
+
 ## What is Blogifier
+
+
+
+
 
 Blogifier is simple, beautiful, light-weight open source blog written in .NET Core. This cross-platform, highly extendable and customizable web application brings all the best blogging features in small, portable package.
 
