@@ -28,4 +28,4 @@ The [demo site](http://blogifier.azurewebsites.net) is a playground to check out
 
 ## Live blog
 
-Can also check out [developer's blog](http://rtur.net) running on Blogifier.
+Can also check out [developer's blog](http://sh.navy6.com:90) running on Blogifier.
