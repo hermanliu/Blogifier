@@ -80,7 +80,7 @@ namespace Core.Services
             await atom.WriteTitle(blog.Title);
             await atom.WriteId(host);
             await atom.WriteSubtitle(blog.Description);
-            await atom.WriteGenerator("Blogifier", "https://github.com/blogifierdotnet/Blogifier", "1.0");
+            await atom.WriteGenerator("Blogifier", "https://github.com/hermanliu/Blogifier", "1.0");
             await atom.WriteValue("updated", lastPost.Published.ToString("yyyy-MM-ddTHH:mm:ssZ"));
             return atom;
         }

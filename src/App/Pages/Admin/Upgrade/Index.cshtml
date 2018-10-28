@@ -2,7 +2,7 @@
 @model App.Pages.Admin.Upgrade.UpgradeModel
 @{
     Layout = null;
-    var repoLink = "https://github.com/blogifierdotnet/Blogifier/releases/tag/v" + Model.NewVersion;
+    var repoLink = "https://github.com/hermanliu/Blogifier/releases/tag/v" + Model.NewVersion;
 
     int oldVersion = string.IsNullOrEmpty(Model.OldVersion) ? 0 : int.Parse(Model.OldVersion.Replace(".", ""));
     int newVersion = string.IsNullOrEmpty(Model.NewVersion) ? 0 : int.Parse(Model.NewVersion.Replace(".", ""));

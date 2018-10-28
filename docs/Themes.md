@@ -101,11 +101,11 @@ the models can be accessed within theme, for example `Model.Blog.Title`.
 
 Name | Data Type | Description
 --- | --- | ---
-Blog | [BlogItem](https://github.com/blogifierdotnet/Blogifier/blob/master/src/Core/Data/Models/AppModel.cs) | Blog settings (title, description etc.) 
-Author | [Author](https://github.com/blogifierdotnet/Blogifier/blob/master/src/Core/Data/Domain/Author.cs) | Author of the blog 
+Blog | [BlogItem](https://github.com/hermanliu/Blogifier/blob/master/src/Core/Data/Models/AppModel.cs) | Blog settings (title, description etc.) 
+Author | [Author](https://github.com/hermanliu/Blogifier/blob/master/src/Core/Data/Domain/Author.cs) | Author of the blog 
 Category | string | Category (when browse by category)
 Posts | IEnumerable &lt;PostItem&gt; |  List of blog posts
-Pager | [Pager](https://github.com/blogifierdotnet/Blogifier/blob/master/src/Core/Helpers/Pager.cs) | Pager (older/newer links)
+Pager | [Pager](https://github.com/hermanliu/Blogifier/blob/master/src/Core/Helpers/Pager.cs) | Pager (older/newer links)
 PostListType | PostListType | Posts type (blog, category, author, search)
 
 #### PostModel
