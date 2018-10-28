@@ -2,6 +2,17 @@
 
 Blogifier 是高山的学习项目, 如果感兴趣，欢迎参加我们~
 
+## 获取项目
+
+```bash
+git clone https://github.com/hermanliu/Blogifier.git
+
+dotnet publish 
+
+
+
+```
+然后访问
 
 ## What is Blogifier
 
