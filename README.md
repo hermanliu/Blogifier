@@ -1,6 +1,6 @@
 ## 关于本系统
 
-Blogifier 是高山的学习项目, 如果感兴趣，欢迎参加我们~
+Blogifier 是高山的学习项目, 如果感兴趣，欢迎加入我们~
 
 ## 获取项目
 
@@ -9,7 +9,6 @@ git clone https://github.com/hermanliu/Blogifier.git
 
 dotnet publish 
 
-哈罗
 
 
 ```
